@@ -1,10 +1,10 @@
 # Logo-Purge
 Custom logo purge
-
+<br>
 >[!IMPORTANT]
 >
-Python:
-
+>Python:
+<br>
 ```
 import argparse, math
 from PIL import Image
@@ -108,10 +108,13 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+<br>
 >[!IMPORTANT]
 >
-Gcode shell command:
+>Gcode shell command:
 >
+<br>
+
 ```
 [gcode_shell_command logo_fetch]
 command: bash -lc 'curl -L --fail --silent --show-error "{params}" -o /tmp/logo_purge.png'
