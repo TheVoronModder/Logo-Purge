@@ -5,6 +5,7 @@ Custom logo purge
 >
 >Python:
 <br>
+
 ```
 import argparse, math
 from PIL import Image
