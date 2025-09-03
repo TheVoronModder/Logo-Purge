@@ -108,7 +108,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
->[!important]
+>[!IMPORTANT]
 >
 Gcode shell command:
 >
@@ -124,7 +124,7 @@ timeout: 180
 verbose: True
 ```
 
->{!IMPORTANT]
+>[!IMPORTANT]
 >Computes a front-gap Y so the logo stays in front of your parts.
 >
 >Downloads (if URL given), generates _logo_purge.gcode, then prints it.
