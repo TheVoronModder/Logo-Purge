@@ -2,7 +2,7 @@
 Custom logo purge
 
 >[!IMPORTANT]
-
+>
 Python:
 
 ```
