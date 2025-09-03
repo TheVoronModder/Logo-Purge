@@ -110,10 +110,11 @@ if __name__ == "__main__":
     main()
 ```
 
-<br>
+
 >[!IMPORTANT]
 >
->Gcode shell command:
+> Gcode shell command:
+>
 >
 <br>
 
